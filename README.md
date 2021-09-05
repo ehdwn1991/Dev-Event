@@ -281,22 +281,43 @@
   - 분류: `대회`
   - 주최: DACON
   - 일시: 08. 18(수) ~ 10. 08(수)
+  
 - __[Red Hat Forum 버추얼 이벤트](https://events.redhat.com/profile/form/index.cfm?PKformID=0x436488abcd&amp;sc_cid=7013a000002pfo0AAA)__
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
+  
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
   - 모집: 08.02(월) ~ 10. 22(화)
+  
+- [HashiConf Global](https://hashiconf.com/global/)
+
+  - 분류 : 웨비나
+  - 주최 : HashiCorp
+  - 일시
+    -  Livestream(Americas & Europe)
+      ```shell
+      태평양 표준시(PSD) : 10.19(화) ~ 10.20(수) 9:00 ~ 13:00
+      한국(KST) : 10.20(수) ~ 10.21(목) 01:00 ~ 05:00
+      ```
+    * Rebroadcast(Asia-Pacific)
+      ```shell
+      호주(AEDT) : 10.20(수) ~ 10.21(목) 9:00 ~ 13:00
+      한국(KST) : 10.20(수) ~ 10.21(목) 07:00 ~ 11:00
+      ```
+
 - __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
   - 분류: `메타버스`, `오프라인`
   - 주최: KEA
   - 모집: 10. 26(화) ~ 10. 29(금)
+  
 - __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
+  
 - __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
